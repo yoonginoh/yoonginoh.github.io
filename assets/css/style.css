@@ -1114,7 +1114,7 @@ section {
 }
 .section1 img {
   width: 100%; /* 이미지가 구역에 맞게 조정되도록 설정 */
-  height: 130px;
+  height: 100px;
 }
 .section1 h2 {
   font-size: 32px;
@@ -1134,7 +1134,7 @@ section {
 }
 .section2 img {
   width: 100%; /* 이미지가 구역에 맞게 조정되도록 설정 */
-  height: 150px;
+  height: 100px;
 }
 .section2 h2 {
   font-size: 32px;
@@ -1153,8 +1153,8 @@ section {
   margin: 5px;
 }
 .section3 img {
-  width: 100%; /* 이미지가 구역에 맞게 조정되도록 설정 */
-  height: 150px;
+  width: 80%; /* 이미지가 구역에 맞게 조정되도록 설정 */
+  height: 100px;
 }
 .section3 h2 {
   font-size: 32px;
